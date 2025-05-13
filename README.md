@@ -304,7 +304,7 @@ com.example.api
 │   ├── service
 │   │   └── TodoService.kt
 │   ├── exception
-│   │   └── TodoException.kt
+│   │   └── TodoNotFoundException.kt
 │   └── repository
 │       └── TodoRepository.kt
 ├── users
@@ -322,7 +322,6 @@ com.example.api
 │   │   └── UserRepository.kt
 │   └── service
 │       └── UserService.kt
-├── todos (예정)
 └── ApiApplication.kt
 ```
 

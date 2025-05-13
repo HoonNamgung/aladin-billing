@@ -109,3 +109,13 @@ JwtAuthenticationFilter
 addFilterBefore가 문제는 안될까요
 (SecurityConfig 첨부)
 ```
+
+## 12. JWT, OAuth2 흐름 이미지 요청
+```
+> 다이어그램 이미지(auth_flow.png)는 /docs 디렉토리에 포함될 수 있습니다.
+
+readme 기반으로 다이어그램 이미지 auth_flow 만들어주세요
+
+--------------------
+mermaid 용 플로우차트 코드로 주세요
+```
