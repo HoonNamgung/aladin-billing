@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: test
+  config:
+    import:
+      - 'classpath:application.yml'
+  datasource:
+    url: "jdbc:sqlite::memory:"
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+jwt:
+  secret: "your-256-bit-secret-your-256-bit-secret"
+  expiration: 3600000

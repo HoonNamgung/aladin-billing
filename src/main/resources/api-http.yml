@@ -1,0 +1,6 @@
+google:
+  client-id: 687905461114-92ob64bca284vemrjhhr1np0gf7qq0ne.apps.googleusercontent.com
+  client-secret: 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
+  token-url: https://oauth2.googleapis.com/token
+  user-info-url: https://www.googleapis.com/oauth2/v2/userinfo
+  redirect-uri: http://localhost:8080/users/social/callback
